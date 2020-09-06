@@ -1,5 +1,5 @@
 # Merchant-Improved
 
-This program written for 1430 introduction to programming class
+This program was written for 1430 introduction to programming class
 
 
